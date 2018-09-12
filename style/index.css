@@ -1,0 +1,11 @@
+.vcs-widget-left {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.vcs-widget-main {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
